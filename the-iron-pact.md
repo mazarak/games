@@ -1,6 +1,7 @@
+# The Iron Pact
 A guild may sign the Iron Pact to create a closed trading and gaming community among Soul of Iron characters.
 
-Laws of Iron:
+## Laws of Iron:
   	1. The general idea is to follow WoW's HC community's rules and ideas as described at https://classichc.net/.
 			- This is a trust-based voluntary system, its up to the guild to hold up the spirit of the HC mindset.
   	2. Only newly created characters are allowed to join. No gold, items or resources, other than those on a newly created characters, are allowed to brought into the guild.
