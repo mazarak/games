@@ -18,7 +18,7 @@ If this would be an addon or an actual feature, the following would be stackable
 The character has to eat food to not get this debuff. The amount of health the food restores difines how long the character can go on before they need to eat again. Eating foods, that give the Well Fed -buff will further increase this time based on the level of the buff. This means that the food made by the Cooking profession are supposed to be better to encourage camping if needed. "Hungry" would also contribute to the Exhausted debuff explained later. 
 
 
-#### "Thristy" debuff
+#### "Thirsty" debuff
 
 Basically the sames as the "Hungry" but you would need a drink to get rid of this debuff (or prevent it to activate).
 
@@ -37,7 +37,7 @@ This wouldn't necessarily have to be a separate debuff, but an increase in time 
 
 In the same spirit of the Hypothermia, but in extremely hot environments (e.g., Tanaris) the character would have to drink more often. Cover from sun would be cool as well. Maybe wearing/not wearing a hat would be a thing.
 
-## Items
+## Useful items in survival mode
 
 I like to idea, that the character has to have some adventuring gear with them to limit the looting capacity. Sacrificing some equipment in favor for more loot would be a calculated risk. I like that. I also like the idea, that the existing items and their properties would have some effect on the Survival mode.
 
