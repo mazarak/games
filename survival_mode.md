@@ -36,3 +36,14 @@ This wouldn't necessarily have to be a separate debuff, but an increase in time 
 ##### Heatstroke component
 
 In the same spirit of the Hypothermia, but in extremely hot environments (e.g., Tanaris) the character would have to drink more often. Cover from sun would be cool as well. Maybe wearing/not wearing a hat would be a thing.
+
+## Items
+
+I like to idea, that the character has to have some adventuring gear with them to limit the looting capacity. Sacrificing some equipment in favor for more loot would be a calculated risk. I like that. I also like the idea, that the existing items and their properties would have some effect on the Survival mode.
+
+Here are some ideas:
+
+- Frost resistance would mitigate the Hypothermia component.
+- Fire resistance would mitigate the Heatsroke component.
+- Goldthorn Tea (https://www.wowhead.com/classic/item=10841/goldthorn-tea#created-by-spell) could extend the time before needing to rest (Exhausted). Some other specific foods could have similiar effect too.
+- It would be neat, if torches like the Grayson's Torch (https://www.wowhead.com/classic/item=1172/graysons-torch#reward-from-q) would have some use.
