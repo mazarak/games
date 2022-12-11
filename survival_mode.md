@@ -39,9 +39,11 @@ This wouldn't necessarily have to be a separate debuff, but an increase in time 
 
 In the same spirit of the Hypothermia, but in extremely hot environments (e.g., Tanaris) the character would have to drink more often. Cover from sun would be cool as well. Maybe wearing/not wearing a hat would be a thing.
 
-## Stas, spells and talents in survival mode
+## Stats, spells, and talents in survival mode
 
 Stamina and Spirit could be tied to the duration character can go on without getting the debuffs. High stamina and/or Spirit would mean longer time to get the "Exhausted". Different character abilities (spells) could have some positive effect to mitigate the negative effects. Maybe some less used talents could offer some interesting survival benefits too.
+
+Here are some ideas:
 
 - Frost resistance would mitigate the Hypothermia component.
 - Fire resistance would mitigate the Heatsroke component.
