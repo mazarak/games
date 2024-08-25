@@ -163,10 +163,10 @@
           <mxGeometry x="705.83" y="549.12" width="26.67" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="JNYkDQcb0m2an1FRz5C0-18" value="Second Floor" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="40" y="424.37" width="305" height="30" as="geometry" />
+          <mxGeometry x="30" y="474.18" width="305" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JNYkDQcb0m2an1FRz5C0-19" value="&lt;ol style=&quot;font-size: 20px;&quot;&gt;&lt;li align=&quot;left&quot; style=&quot;font-size: 20px;&quot;&gt;Stairs to first floor&lt;/li&gt;&lt;li align=&quot;left&quot; style=&quot;font-size: 20px;&quot;&gt;The Mosaic Room&lt;/li&gt;&lt;li align=&quot;left&quot; style=&quot;font-size: 20px;&quot;&gt;Shrine&lt;br&gt;&lt;/li&gt;&lt;li align=&quot;left&quot; style=&quot;font-size: 20px;&quot;&gt;The Statue Room&lt;/li&gt;&lt;li align=&quot;left&quot; style=&quot;font-size: 20px;&quot;&gt;Secret stairway to the Secret Sanctum&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="95" y="494.37" width="285" height="122.38" as="geometry" />
+          <mxGeometry x="85" y="544.1800000000001" width="285" height="122.38" as="geometry" />
         </mxCell>
         <mxCell id="JNYkDQcb0m2an1FRz5C0-25" value="" style="shape=delay;whiteSpace=wrap;html=1;rotation=90;strokeColor=#10739e;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="544.38" y="667.12" width="80" height="120" as="geometry" />
@@ -190,10 +190,10 @@
           <mxGeometry x="80" y="830.98" width="285" height="193.69" as="geometry" />
         </mxCell>
         <mxCell id="JNYkDQcb0m2an1FRz5C0-32" value="First Floor" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="30" y="50" width="305" height="30" as="geometry" />
+          <mxGeometry x="15" y="190" width="305" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JNYkDQcb0m2an1FRz5C0-33" value="&lt;ol style=&quot;font-size: 20px;&quot;&gt;&lt;li align=&quot;left&quot; style=&quot;font-size: 20px;&quot;&gt;Stairs to second floor.&lt;/li&gt;&lt;li align=&quot;left&quot; style=&quot;font-size: 20px;&quot;&gt;Statues of six knights.&lt;/li&gt;&lt;li align=&quot;left&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="85" y="120" width="285" height="122.38" as="geometry" />
+          <mxGeometry x="65" y="220" width="285" height="122.38" as="geometry" />
         </mxCell>
         <mxCell id="JNYkDQcb0m2an1FRz5C0-34" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#10739e;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="484.79" y="10" width="200" height="360" as="geometry" />
@@ -221,6 +221,9 @@
         </mxCell>
         <mxCell id="JNYkDQcb0m2an1FRz5C0-57" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;strokeColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="574.3799999999999" y="330" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JNYkDQcb0m2an1FRz5C0-58" value="The Chappel of the Silver Swan" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="390" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
